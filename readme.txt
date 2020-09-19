@@ -6,3 +6,4 @@ First edit for branch A
 2nd edit for branch c
 3rd edit for branch c
 1st edit for branch b
+2nd edit for branch b
