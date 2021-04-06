@@ -1,16 +1,10 @@
-readme
-First edit for branch A
-2ndd edit for branch A
-3rd edit for branch A
-1st edit for branch C
-2nd edit for branch c
-3rd edit for branch c
-1st edit for branch b
-2nd edit for branch b
-2nd edit for branch b
-4th edit for branch c
-5h edit for branch c
-4th edit for branch c
-5h edit for branch c
-4th edit for branch a
-5th edit for branch a
+# University of South Carolina
+CSCE 247 - Introduction to Software Engineering
+Fall 2020
+Instructor: Portia Plante
+
+Java homework, github tutorials, projects, and other misc data
+
+Grade: A
+
+[GitHub]https://camo.githubusercontent.com/d58f15725b674c36b5c71b64c09b071a5008a58ac384e3db9463d1d45afae057/687474703a2f2f7777772e64636f73732e6f72672f64636f737331322f7265736f75726365732f7573632e6a7067
