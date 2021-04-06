@@ -1,5 +1,5 @@
 # University of South Carolina
-CSCE 247 - Introduction to Software Engineering
+CSCE 247 
 Fall 2020
 Instructor: Portia Plante
 
